@@ -1,0 +1,89 @@
+*{
+    box-sizing: border-box;
+}
+
+.head_div{
+    display: flex;      
+    max-width: 550px;
+    max-height: 330px;
+    background: #FFFFFF;
+    border: 2px solid #BCC3CD;
+    border-radius: 5px;
+    margin: 0 auto;
+}
+
+h2{
+    padding-left: 97%;
+    color: #295091;
+}
+
+.div_list{
+    padding-left: 0px;
+}
+
+.list{
+    list-style-type: none;
+    margin-top: 50px;
+    margin-top: 50px;
+    color: #BCC3CD;
+}
+.p1{
+    color: #BCC3CD;
+}
+
+.div-left{
+    padding-top: 50px;
+    margin-left: 25px;
+    margin-top: 10px;
+    padding-bottom: 15px;
+}
+
+.patpiska{
+    border: 1px solid   #295091;
+    border-radius: 5px;
+    background-color: #295091;
+    display: flex;
+    margin: 10px;
+    width: 150px;
+    padding-left: 10px;
+
+}
+.p2{
+    margin: auto;
+    padding: 5px;
+    color: rgb(237, 157, 157);
+}
+
+.div_download{
+    display: flex;
+    /* padding-right: 10px; */
+}
+.download1, .download2{
+    border: 1px solid #BCC3CD;
+    /* justify-content: space-around; */
+    
+}
+.download1{
+    border-radius: 5px;
+    margin: 5px;
+    display: flex;
+    left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+background: rgba(41, 80, 145, 0.19);
+}
+.download2{
+    display: flex;
+    border-radius: 5px;
+    left: 31.44%;
+right: 9.04%;
+top: 24%;
+bottom: 19.18%;
+background: #295091;
+height: 600px;
+}
+
+h6, h5{
+    color: rgb(233, 128, 128);
+}
